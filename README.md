@@ -1,4 +1,4 @@
-# Web-Crawler-and-Indexing
+# Basic-Web-Crawler-and-Indexing
 This program consist of the following actions
 1. Crawl the link that is Entered
 (this crawler doesn't have rights to crawl every page)
