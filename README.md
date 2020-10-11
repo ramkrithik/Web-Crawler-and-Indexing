@@ -8,3 +8,7 @@ This program consist of the following actions
 4.Word cloud formation from the terms.
 5.Added a simple wordnet synonyms and para phrase generator.
 ## Program 2-
+1. TF-IDF creation with and without packages
+## Program 3-
+1. Degree Prestige, Proximity prestige and Rank Prestige Calculation.
+2. HITS algorithm using networkx Package.
